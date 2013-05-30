@@ -19,11 +19,11 @@
     <script src="js/modern/start-menu.js"></script>
     <script src="js/modern/tile-drag.js"></script>
 
-    <title>Modern UI CSS</title>
+    <title>Portal de Gestión - CGP IBERIA</title>
 
     <style>
         body {
-            background: #1d1d1d;
+            background: #FFFFFF;
         }
     </style>
     
@@ -35,17 +35,17 @@
             <div class="user-login">
                 <a href="#">
                     <div class="name">
-                        <span class="first-name">Sergey</span>
-                        <span class="last-name">Pimenov</span>
+                        <span class="first-name fg-color-blue">IE CGP</span>
+                        <span class="last-name fg-color-blue">Admin</span>
                     </div>
                     <div class="avatar">
                         <!--<img src="images/myface.jpg"/>-->
-                        <i class="icon-user fg-color-white"></i>
+                        <i class="icon-user fg-color-blue"></i>
                     </div>
                 </a>
             </div>
 
-            <h1 class="fg-color-white">Start</h1>
+            <h1 class="fg-color-blue">CGP Iberia</h1>
         </div>
     </div>
 
@@ -57,7 +57,7 @@
                         <i class="icon-calculate"></i>
                     </div>
                     <div class="brand">
-                        <span class="name">Calculator</span>
+                        <span class="name">Calculadora IP</span>
                     </div>
                 </div>
 
@@ -371,7 +371,7 @@
         </div>
     </div>
 </div>
-<?php include("counter.php");?>
+
 
 </body>
 </html>
